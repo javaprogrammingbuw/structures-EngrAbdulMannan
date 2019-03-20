@@ -21,7 +21,7 @@ public class SumMeanMinMax {
 		 * */
 		int sum=(a+b+c);
 				System.out.println("sum is "+sum);
-		int mean=(a+b+c)/3;
+		double mean=(a+b+c)/3;
 				System.out.println("mean is "+mean);
 	if (a>b && a>c) {
 		System.out.println("max is "+a);
